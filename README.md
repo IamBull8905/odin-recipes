@@ -1,1 +1,1 @@
-# odin-recipes
+This is the first project, which showcases all of the HTML knowledge taught by The Odin Project. It displays recipes of food that I found interesting and inspiring. The HTML knowledge used are core elements to properly understand future parts of this ongoing course. I hope you enjoy it!!
